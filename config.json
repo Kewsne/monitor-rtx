@@ -1,0 +1,10 @@
+{
+  "modelos": {
+    "RTX 5060": { "preco_max": 2550.00 },
+    "RTX 5060 Ti": { "preco_max": 2800.00 }
+  },
+  "ntfy_topico": "",
+  "notificar_windows": false,
+  "incluir_marketplace": true,
+  "renotificar_se_cair_reais": 20.0
+}
